@@ -115,3 +115,40 @@ body{
     background-color: #3B82F6;
     color: white;
 }
+
+.perfil{
+    display: flex;
+    
+}
+.perfilFoto{
+    margin-right: 30px;
+}
+.info{
+    margin-left: 20px;
+}
+.check{
+    margin-left: 10px;
+}
+
+
+table {
+    
+    width: 100%;
+    text-align: center;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  input {
+    width: 200px;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+
+.borg{
+    width: 400px;
+}
+.feedback{
+    display: flex;
+}
